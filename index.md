@@ -1,5 +1,10 @@
 
-# Header 1
+# About Me
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Hi,
+Myself Sandeep Kumar, I am working as Enterprise Architect in Adobe Systems, India.
+I am having 18+ years of experience in Software Development.
+
+I have created this page as my prfessional work profile. I'll add more details about me and my work here.
+Keep watching this space.
 
